@@ -18,12 +18,17 @@ it actually paid off.
 | Project | What it is | |
 |---|---|---|
 | **[opti_chess](https://github.com/poirouxmartin/opti_chess)** | C++20 chess engine and analysis GUI, ~23 000 lines, written from scratch | public repo |
-| **[Lucena](https://lucenachess.com)** | Chess learning platform — progression tracking, game import from Lichess / Chess.com / PGN | live · private repo |
-| **[BlitzVolley](https://blitzvolley.com)** | Online multiplayer volleyball — real-time netcode, matchmaking, ELO, ranked and casual queues | live · private repo |
-| **[ConformeRGPD](https://conformergpd.fr)** | GDPR compliance SaaS — site scanner, cookie-consent widget, legal document generator, subscriptions | live · private repo |
+| **[Lucena](https://lucenachess.com/en)** | Chess learning platform — progression tracking, game import from Lichess / Chess.com / PGN | live · private repo |
+| **[BlitzVolley](https://blitzvolley.com/en)** | Online multiplayer volleyball — real-time netcode, matchmaking, ELO, ranked and casual queues | live · private repo |
+| **[ConformeRGPD](https://conformergpd.fr)** | GDPR compliance SaaS — site scanner, cookie-consent widget, legal document generator, subscriptions | live · private repo · French only |
 
-Three of the four are private. I'm happy to walk through any of them live; I'd rather do that
-than link you to something you can't open.
+A note on language: Lucena and BlitzVolley ship French first and English second — the links
+above go straight to the English version. ConformeRGPD is French-only by design; it sells
+GDPR compliance to French freelancers and small businesses, so there is no one else to
+translate it for.
+
+Three of the four repos are private. I'm happy to walk through any of them live; I'd rather do
+that than link you to something you can't open.
 
 ---
 
@@ -52,6 +57,11 @@ ever played online and informally offline.
 I've built with AI daily since May 2024, through the whole curve: autocomplete, then agentic,
 now Claude Code driving my own orchestration layer. What I think separates useful practice from
 enthusiasm is having a measurement discipline attached.
+
+Two tools came out of that. **claude-remote** *(private)* is an orchestration layer over Claude
+Code: five or six agent sessions running in parallel across separate projects, each with its own
+task list, git view and reusable workflows, plus a daily report on where the tokens actually
+went. It's the one I use every day.
 
 **local-factory** *(private)* is a Python harness — **421 commits, ~32 000 lines, ~1 250 test
 functions, 101 design and decision documents** — that drives quantised open-weight models on a
