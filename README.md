@@ -1,6 +1,33 @@
-# Martin Poiroux
+<h1 align="center">
+  <a href="https://readme-typing-svg.herokuapp.com/demo/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3FB68B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Martin+Poiroux;Software+Engineer+%7C+C+++%7C+TypeScript+%7C+Chess+Engineer" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3FB68B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Martin+Poiroux;Software+Engineer+%7C+C+++%7C+TypeScript+%7C+Chess+Engineer" alt="Martin Poiroux - Software Engineer" />
+  </a>
+</h1>
 
-**Software engineer — Toulouse, France.** C++ · C#/.NET · TypeScript · Python
+<p align="center">
+  <strong>Toulouse, France</strong> · Building things end to end since 2022
+</p>
+
+<p align="center">
+  <a href="https://github.com/poirouxmartin/opti_chess">
+    <img src="https://img.shields.io/badge/C%2B%2B-20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  </a>
+  <a href="https://github.com/poirouxmartin/lucena">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://github.com/poirouxmartin/opti_chess">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  </a>
+  <a href="https://github.com/poirouxmartin/local-factory">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://github.com/poirouxmartin/BlitzVolley">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://lucenachess.com">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  </a>
+</p>
 
 By day I'm the only active developer left on a 500 000-line .NET/WPF product sold to telecom
 operators, plus the five smaller SaaS products around it. By night I ship things end to end,
@@ -17,10 +44,10 @@ it actually paid off.
 
 | Project | What it is | |
 |---|---|---|
-| **[opti_chess](https://github.com/poirouxmartin/opti_chess)** | C++20 chess engine and analysis GUI, ~23 000 lines, written from scratch | public repo |
-| **[Lucena](https://lucenachess.com/en)** | Chess learning platform — progression tracking, game import from Lichess / Chess.com / PGN | live · private repo |
-| **[BlitzVolley](https://blitzvolley.com/en)** | Online multiplayer volleyball — real-time netcode, matchmaking, ELO, ranked and casual queues | live · private repo |
-| **[ConformeRGPD](https://conformergpd.fr)** | GDPR compliance SaaS — site scanner, cookie-consent widget, legal document generator, subscriptions | live · private repo · French only |
+| **[opti_chess](https://github.com/poirouxmartin/opti_chess)** | C++20 chess engine and analysis GUI, ~23 000 lines, written from scratch | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/poirouxmartin/opti_chess) |
+| **[Lucena](https://lucenachess.com/en)** | Chess learning platform — progression tracking, game import from Lichess / Chess.com / PGN | [![Live](https://img.shields.io/badge/Live-3FB68B?style=flat)](https://lucenachess.com/en) · private repo |
+| **[BlitzVolley](https://blitzvolley.com/en)** | Online multiplayer volleyball — real-time netcode, matchmaking, ELO, ranked and casual queues | [![Live](https://img.shields.io/badge/Live-3FB68B?style=flat)](https://blitzvolley.com/en) · private repo |
+| **[ConformeRGPD](https://conformergpd.fr)** | GDPR compliance SaaS — site scanner, cookie-consent widget, legal document generator, subscriptions | [![Live](https://img.shields.io/badge/Live-3FB68B?style=flat)](https://conformergpd.fr) · private repo · FR only |
 
 A note on language: Lucena and BlitzVolley ship French first and English second — the links
 above go straight to the English version. ConformeRGPD is French-only by design; it sells
@@ -33,6 +60,10 @@ that than link you to something you can't open.
 ---
 
 ## Chess
+
+<a href="https://github.com/poirouxmartin/opti_chess">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=poirouxmartin&repo=opti_chess&theme=tokyonight&hide_border=true" alt="opti_chess repo" />
+</a>
 
 **[opti_chess](https://github.com/poirouxmartin/opti_chess)** is the oldest thread here and the
 one I'd want to be judged on. Its engine, *GrogrosZero*, is a hybrid search: UCT-style node
@@ -102,15 +133,31 @@ work actually comes from.
 
 ## Stack
 
-**Daily:** C++ · C# / .NET / WPF / Blazor / EF Core · TypeScript / NestJS / Next.js / React ·
-Python
-**Data & infra:** PostgreSQL + Supabase (RLS) · Cosmos DB · Azure SQL · MongoDB · RabbitMQ ·
-Vercel · Azure DevOps · Sentry · Stripe
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Phaser-3-52B788?style=flat-square&logo=phaser&logoColor=white" alt="Phaser" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
+</p>
+
 **AI engineering:** agent harness design · local inference with llama.cpp and Ollama · GGUF
 quantisation and KV-cache tuning · RAG · multi-agent orchestration · prompt-cost A/B measurement
+
 **Domains:** game-tree search (MCTS, alpha-beta) · chess programming · real-time multiplayer and
 matchmaking · rating systems · geometric optimisation · multi-tenant SaaS · GDPR
-
 Not on this list, and not claimed: PHP/Symfony, Java/Spring, Kubernetes, Go, Rust. I've never run
 them in production. I ramp fast and can show you the receipts, but that's a different sentence.
 
@@ -118,10 +165,20 @@ them in production. I ramp fast and can show you the receipts, but that's a diff
 
 ## Elsewhere
 
-[LinkedIn](https://linkedin.com/in/martin-poiroux) ·
-[Chess.com](https://www.chess.com/member/martin_poiroux) ·
-[Lichess](https://lichess.org/@/Martin_Poiroux) ·
-poirouxmartin@gmail.com
+<p align="center">
+  <a href="https://linkedin.com/in/martin-poiroux">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.chess.com/member/martin_poiroux">
+    <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com" />
+  </a>
+  <a href="https://lichess.org/@/Martin_Poiroux">
+    <img src="https://img.shields.io/badge/Lichess-FFFFFF?style=for-the-badge&logo=lichess&logoColor=black" alt="Lichess" />
+  </a>
+  <a href="mailto:poirouxmartin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <sub>Every figure on this page was measured on 2026-07-31, not estimated. Ratings move and commit
 counts grow; if something here looks stale, it probably is.</sub>
