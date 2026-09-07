@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Toulouse, France</strong> · Building things end to end since 2022
+  <strong>Toulouse, France</strong> · Building things end to end since 2016
 </p>
 
 <p align="center">
