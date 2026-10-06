@@ -60,7 +60,8 @@ selection layered over alpha-beta with an integrated quiescence search, WDL stat
 evaluation, and hand-written evaluation terms. The search is bounded and allocation-free.
 `Node` and `Board` objects come from pools sized at startup from available physical memory, so
 when a pool fills, the engine refines the tree it already has instead of growing it. Nothing in
-it is borrowed: not the search, not the evaluation, not the piece sprites, which I drew.
+it is borrowed: not the search, not the evaluation, not the interface (raylib only draws;
+every widget is written by hand), not the piece sprites, which I drew.
 
 It is a research engine, not a competitive one. It is not UCI, and the README says so plainly.
 It plays on Lichess as **[Grogros_Zero](https://lichess.org/@/Grogros_Zero)**, where you can
