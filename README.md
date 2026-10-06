@@ -28,8 +28,8 @@ actually paid off.
 | Project | What it is | |
 |---|---|---|
 | **[opti_chess](https://github.com/poirouxmartin/opti_chess)** | C++20 chess engine and analysis GUI, written from scratch | [![Repo](https://img.shields.io/badge/GitHub-0c0a09?style=flat-square&logo=github&logoColor=c8a96a)](https://github.com/poirouxmartin/opti_chess) |
-| **[Lucena](https://lucenachess.com/en)** | Chess learning platform: progression tracking, game import from Lichess, Chess.com and PGN | [![Live](https://img.shields.io/badge/Live-7d5f1f?style=flat-square)](https://lucenachess.com/en) · private repo |
-| **[BlitzVolley](https://blitzvolley.com/en)** | Online multiplayer volleyball: real-time netcode, matchmaking, ELO, ranked and casual queues | [![Live](https://img.shields.io/badge/Live-7d5f1f?style=flat-square)](https://blitzvolley.com/en) · private repo |
+| **[Lucena](https://lucenachess.com)** | Chess learning platform: progression tracking, game import from Lichess, Chess.com and PGN | [![Live](https://img.shields.io/badge/Live-7d5f1f?style=flat-square)](https://lucenachess.com) · private repo |
+| **[BlitzVolley](https://blitzvolley.com)** | Online multiplayer volleyball: real-time netcode, matchmaking, ELO, ranked and casual queues | [![Live](https://img.shields.io/badge/Live-7d5f1f?style=flat-square)](https://blitzvolley.com) · private repo |
 | **[ConformeRGPD](https://conformergpd.fr)** | GDPR compliance SaaS: site scanner, cookie-consent widget, legal document generator, subscriptions | [![Live](https://img.shields.io/badge/Live-7d5f1f?style=flat-square)](https://conformergpd.fr) · private repo · FR only |
 | **[chess-net](https://github.com/poirouxmartin/chess-net)** | Second chess engine, in Rust, with a learned evaluation (NNUE and AlphaZero-style self-play in PyTorch) | [![Repo](https://img.shields.io/badge/GitHub-0c0a09?style=flat-square&logo=github&logoColor=c8a96a)](https://github.com/poirouxmartin/chess-net) |
 | **[game-solver](https://github.com/poirouxmartin/game-solver)** | Exact Connect 4 solver: memoised negamax compiled to WASM, spread over a Web Worker pool | [![Repo](https://img.shields.io/badge/GitHub-0c0a09?style=flat-square&logo=github&logoColor=c8a96a)](https://github.com/poirouxmartin/game-solver) |
@@ -37,10 +37,9 @@ actually paid off.
 | **[barricade_board](https://github.com/poirouxmartin/barricade_board)** | Malefiz in C++20/SDL2: four players, dice, and an MCTS opponent guided by a self-play network | [![Repo](https://img.shields.io/badge/GitHub-0c0a09?style=flat-square&logo=github&logoColor=c8a96a)](https://github.com/poirouxmartin/barricade_board) |
 | **[sure-weather](https://github.com/poirouxmartin/sure-weather)** | Weather fusion across providers, weighted by error learned against observed weather; PWA and Android widget | [![Repo](https://img.shields.io/badge/GitHub-0c0a09?style=flat-square&logo=github&logoColor=c8a96a)](https://github.com/poirouxmartin/sure-weather) |
 
-A note on language: Lucena and BlitzVolley ship French first and English second, and the links
-above go straight to the English version. ConformeRGPD is French-only by design, since it sells
-GDPR compliance to French freelancers and small businesses, so there is no one else to translate
-it for.
+A note on language: Lucena and BlitzVolley are bilingual and open in your browser's language.
+ConformeRGPD is French-only by design, since it sells GDPR compliance to French freelancers and
+small businesses, so there is no one else to translate it for.
 
 The three products are private repos. I am happy to walk through any of them live; I would rather
 do that than link you to something you cannot open. Every project, public or not, has a page on
