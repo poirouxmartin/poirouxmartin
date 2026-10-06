@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <a href="https://martinpoiroux.com/en/"><strong>martinpoiroux.com</strong></a> · projects, write-ups and CV
+</p>
+
+<p align="center">
   <a href="https://github.com/poirouxmartin/opti_chess">
     <img src="https://img.shields.io/badge/C%2B%2B-20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   </a>
@@ -44,14 +48,20 @@ actually paid off.
 | **[Lucena](https://lucenachess.com/en)** | Chess learning platform: progression tracking, game import from Lichess, Chess.com and PGN | [![Live](https://img.shields.io/badge/Live-3FB68B?style=flat)](https://lucenachess.com/en) · private repo |
 | **[BlitzVolley](https://blitzvolley.com/en)** | Online multiplayer volleyball: real-time netcode, matchmaking, ELO, ranked and casual queues | [![Live](https://img.shields.io/badge/Live-3FB68B?style=flat)](https://blitzvolley.com/en) · private repo |
 | **[ConformeRGPD](https://conformergpd.fr)** | GDPR compliance SaaS: site scanner, cookie-consent widget, legal document generator, subscriptions | [![Live](https://img.shields.io/badge/Live-3FB68B?style=flat)](https://conformergpd.fr) · private repo · FR only |
+| **[chess-net](https://github.com/poirouxmartin/chess-net)** | Second chess engine, in Rust, with a learned evaluation (NNUE and AlphaZero-style self-play in PyTorch) | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/poirouxmartin/chess-net) |
+| **[game-solver](https://github.com/poirouxmartin/game-solver)** | Exact Connect 4 solver: memoised negamax compiled to WASM, spread over a Web Worker pool | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/poirouxmartin/game-solver) |
+| **[barricade_ai](https://github.com/poirouxmartin/barricade_ai)** | Barricade engine: alpha-beta compiled with numba, about 2.5M nodes/s, plus MCTS | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/poirouxmartin/barricade_ai) |
+| **[barricade_board](https://github.com/poirouxmartin/barricade_board)** | Malefiz in C++20/SDL2: four players, dice, and an MCTS opponent guided by a self-play network | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/poirouxmartin/barricade_board) |
+| **[sure-weather](https://github.com/poirouxmartin/sure-weather)** | Weather fusion across providers, weighted by error learned against observed weather; PWA and Android widget | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/poirouxmartin/sure-weather) |
 
 A note on language: Lucena and BlitzVolley ship French first and English second, and the links
 above go straight to the English version. ConformeRGPD is French-only by design, since it sells
 GDPR compliance to French freelancers and small businesses, so there is no one else to translate
 it for.
 
-Three of the four repos are private. I am happy to walk through any of them live; I would rather
-do that than link you to something you cannot open.
+The three products are private repos. I am happy to walk through any of them live; I would rather
+do that than link you to something you cannot open. Every project, public or not, has a page on
+[martinpoiroux.com](https://martinpoiroux.com/en/projects/).
 
 ---
 
@@ -166,6 +176,12 @@ sentence.
 ## Elsewhere
 
 <p align="center">
+  <a href="https://martinpoiroux.com/en/">
+    <img src="https://img.shields.io/badge/martinpoiroux.com-0C0A09?style=for-the-badge&logo=astro&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.malt.fr/profile/martinpoiroux">
+    <img src="https://img.shields.io/badge/Malt-FC5757?style=for-the-badge" alt="Malt" />
+  </a>
   <a href="https://linkedin.com/in/martin-poiroux">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
