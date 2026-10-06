@@ -104,7 +104,7 @@ Code: several agent sessions running in parallel across separate projects, each 
 list, git view and reusable workflows, plus a daily report on where the tokens actually went. It
 is the one I use every day.
 
-**local-factory** *(private)* is a Python harness that drives quantised open-weight models on a
+**[local-factory](https://github.com/poirouxmartin/local-factory-harness)** *(public snapshot of a private working repo)* is a Python harness that drives quantised open-weight models on a
 12 GB consumer GPU through a `spec → diff → regression → review` pipeline. It has a model
 escalation ladder, cross-session working memory, completion conditions verified against the
 filesystem rather than against the model's own word, and git guardrails my agents cannot bypass:
