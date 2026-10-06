@@ -1,4 +1,4 @@
-<a href="https://martinpoiroux.com/en/">
+<a href="https://martinpoiroux.com/">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
     <img src="assets/banner-dark.svg" width="100%" alt="Martin Poiroux, software engineer, Toulouse">
@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-  <a href="https://martinpoiroux.com/en/"><img src="https://img.shields.io/badge/martinpoiroux.com-0c0a09?style=flat-square&labelColor=0c0a09&color=0c0a09" alt="martinpoiroux.com"></a>
+  <a href="https://martinpoiroux.com/"><img src="https://img.shields.io/badge/martinpoiroux.com-0c0a09?style=flat-square&labelColor=0c0a09&color=0c0a09" alt="martinpoiroux.com"></a>
   <a href="https://www.malt.fr/profile/martinpoiroux"><img src="https://img.shields.io/badge/Malt-0c0a09?style=flat-square&color=0c0a09" alt="Malt"></a>
   <a href="https://linkedin.com/in/martin-poiroux"><img src="https://img.shields.io/badge/LinkedIn-0c0a09?style=flat-square&logo=linkedin&logoColor=c8a96a&color=0c0a09" alt="LinkedIn"></a>
   <a href="mailto:poirouxmartin@gmail.com"><img src="https://img.shields.io/badge/Email-0c0a09?style=flat-square&logo=gmail&logoColor=c8a96a&color=0c0a09" alt="Email"></a>
@@ -44,7 +44,7 @@ it for.
 
 The three products are private repos. I am happy to walk through any of them live; I would rather
 do that than link you to something you cannot open. Every project, public or not, has a page on
-[martinpoiroux.com](https://martinpoiroux.com/en/projects/).
+[martinpoiroux.com](https://martinpoiroux.com/projets//).
 
 <p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
 
@@ -159,6 +159,6 @@ sentence.
 
 ## Elsewhere
 
-[martinpoiroux.com](https://martinpoiroux.com/en/) · [Malt](https://www.malt.fr/profile/martinpoiroux) · [LinkedIn](https://linkedin.com/in/martin-poiroux) · [Chess.com](https://www.chess.com/member/martin_poiroux) · [Lichess](https://lichess.org/@/Martin_Poiroux) · [itch.io](https://poirouxmartin.itch.io)
+[martinpoiroux.com](https://martinpoiroux.com/) · [Malt](https://www.malt.fr/profile/martinpoiroux) · [LinkedIn](https://linkedin.com/in/martin-poiroux) · [Chess.com](https://www.chess.com/member/martin_poiroux) · [Lichess](https://lichess.org/@/Martin_Poiroux) · [itch.io](https://poirouxmartin.itch.io)
 
 <sub>Ratings move. If something here looks stale, it probably is.</sub>
